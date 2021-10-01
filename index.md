@@ -124,19 +124,29 @@ h6 {
     <div class="col-xs-12">
             <div class="text-center">
                 <div style="padding-bottom: 30px;">
-                    <button onclick="location.href='http://bit.ly/2IZURI7'" type="button" class="btn btn-outline-light shake" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 800;">15% OFF Instagram Growth</button>
+                    	<button 
+			    	onclick="location.href='http://bit.ly/2IZURI7'" 
+			    	type="button" 
+			    	class="btn btn-outline-light shake" 
+			    	style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 800;">
+			    	Whatsapp
+			</button>
                 </div>
                 <div style="padding-bottom: 30px;">
-                    <button onclick="location.href='http://bit.ly/2SVZXES'" type="button" class="btn btn-outline-light" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">Guide: Increasing Your Engagement</button>
+                    	<button 
+			    	onclick="location.href='http://bit.ly/2SVZXES'" 
+				type="button" class="btn btn-outline-light"
+				style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">
+				Instagram
+			</button>
                 </div>
-                <div style="padding-bottom: 30px;">
-                    <button onclick="location.href='#'" type="button" class="btn btn-outline-light" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">View My YouTube Channel</button>
-                </div>
-                <div style="padding-bottom: 30px;">
-                    <button onclick="location.href='#'" type="button" class="btn btn-outline-light" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">Connect On LinkedIn</button>
-                </div>
-                <div style="padding-bottom: 30px;">
-                    <button onclick="location.href='#'" type="button" class="btn btn-outline-light" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">My Personal Website</button>
+		<div style="padding-bottom: 30px;">
+                    	<button 
+			    	onclick="location.href='http://bit.ly/2SVZXES'" 
+				type="button" class="btn btn-outline-light"
+				style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">
+				Facebook
+			</button>
                 </div>
             </div>
     </div>
